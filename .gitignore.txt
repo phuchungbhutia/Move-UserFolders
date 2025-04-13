@@ -1,0 +1,33 @@
+# Ignore PowerShell history
+*.pshistory
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*.log
+
+# Ignore system files
+Thumbs.db
+.DS_Store
+ehthumbs.db
+Icon?
+
+# Ignore compiled files
+*.ps1xml
+*.psc1
+
+# Ignore IDE/editor-specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# Ignore backup files
+*.~*
+
+# Ignore PowerShell transcript logs
+PowerShell_transcript*
+
+# Windows specific
+desktop.ini
