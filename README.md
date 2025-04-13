@@ -25,4 +25,4 @@ A PowerShell script to automatically move default user folders (like Desktop, Do
 Clone the repo or download the script file:
 
 ```bash
-git clone https://github.com/yourusername/Move-UserFolders.git
+git clone https://github.com/phuchungbhutia/Move-UserFolders.git
